@@ -46,3 +46,32 @@ http://tvbross.com:8090/Segundo/Segundo123/402
 #EXTINF:-1,TNT HD
 http://tvbross.com:8090/Segundo/Segundo123/401
 
+#EXTINF:-1 tvg-id="CO: UFC NETWORK HD" tvg-name="UFC TV" tvg-logo="http://supportstreams.net:80/images/dfe42f0389e7b1f28d45320e9ccb598c.png" group-title="SPORTS",UFC TV
+http://pelicanhosting.xyz:80/123abc/123abc/47276
+
+#EXTINF:-1 tvg-id="" tvg-name="MX: TNT" tvg-logo="http://supportstreams.net:80/images/48139b60c2ad49dbeadb3c45d0541451.png" group-title="LATINO - CINE TV",MX: TNT
+http://pelicanhosting.xyz:80/123abc/123abc/171519
+
+#EXTINF:-1 tvg-id="" tvg-name="MX: Golden Edge" tvg-logo="http://supportstreams.net:80/images/288930fdb1259d65233439dbec1dfe4b.png" group-title="LATINO - CINE TV",MX: Golden Edge
+http://pelicanhosting.xyz:80/123abc/123abc/171487
+
+#EXTINF:-1 tvg-id="" tvg-name="MX: HBO" tvg-logo="http://supportstreams.net:80/images/67b5430b80be3d73e276868679d50e1d.png" group-title="LATINO - CINE TV",MX: HBO
+http://pelicanhosting.xyz:80/123abc/123abc/171479
+#EXTINF:-1 tvg-id="" tvg-name="MX: HBO 2" tvg-logo="http://supportstreams.net:80/images/b6a753ee3b93fd13088233e454e789b3.png" group-title="LATINO - CINE TV",MX: HBO 2
+http://pelicanhosting.xyz:80/123abc/123abc/171480
+
+#EXTINF:-1 tvg-id="" tvg-name="MX: HISTORY 2" tvg-logo="https://static.epg.best/mx/History2.mx.png" group-title="LATINO - ENTRETENIMIENTO",MX: HISTORY 2
+http://pelicanhosting.xyz:80/123abc/123abc/171525
+
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Discovery Channel" tvg-logo="http://supportstreams.net:80/images/e605c7c5cff2a9ecbdbfaa7141618937.png" group-title="LATINO - ENTRETENIMIENTO",LAT: Discovery Channel
+http://pelicanhosting.xyz:80/123abc/123abc/171528
+
+#EXTINF:-1 tvg-id="" tvg-name="MX: History" tvg-logo="http://supportstreams.net:80/images/286caa423282870cd9b4638babd43086.png" group-title="LATINO - ENTRETENIMIENTO",MX: History
+http://pelicanhosting.xyz:80/123abc/123abc/171556
+
+#EXTINF:-1 tvg-id="" tvg-name="MX: DISNEY CHANNEL" tvg-logo="http://supportstreams.net:80/images/98da911a6a7e9b677b03b2453b2befb1.png" group-title="LATINO - INFANTIL",MX: DISNEY CHANNEL
+http://pelicanhosting.xyz:80/123abc/123abc/171578
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Chavo del 8" tvg-logo="http://supportstreams.net:80/images/ee7acf8a370b2f5749a2018a5272fa17.png" group-title="LATINO - CANALES 24H",24/7 El Chavo del 8
+http://pelicanhosting.xyz:80/123abc/123abc/171655
+
